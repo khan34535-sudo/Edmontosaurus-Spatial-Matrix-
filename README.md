@@ -5,7 +5,7 @@ An interactive, holographic **6D multi-spectral anatomical engine** for *Edmonto
 > ⚠️ **Prototype Sample** — Asia Khan, Hon. BA (McMaster University) · Behavioural UX Researcher & 3D Spatial Architect
 > **All Rights Reserved.** Information in this repository is still under review. See [RIGHTS.md](RIGHTS.md) if available, or read the Rights section below.
 
-**🔗 Live Demo:** `https://khan34535-sudo.github.io/Edmontosaurus-Spatial-Matrix/` *(update if your Pages URL differs)*
+**🔗 Live Demo:** `https://khan34535-sudo.github.io/Edmontosaurus-Spatial-Matrix/` 
 
 ## 🧭 What This Is
 
